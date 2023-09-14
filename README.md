@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/4g67qmge1hxsl31r?svg=true)](https://ci.appveyor.com/project/OlgaUsh89/api-71wxh)
+[![Build status](https://ci.appveyor.com/api/projects/status/6hipfg7fyeut92aa?svg=true)](https://ci.appveyor.com/project/OlgaUsh89/postman)
